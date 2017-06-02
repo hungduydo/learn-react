@@ -1,0 +1,17 @@
+.check-form table {
+	margin-bottom: 0; 
+}
+
+table.check-form tr td{
+	padding: 0;
+	vertical-align: middle;
+}
+
+table.check-form select.checkpoint-select {
+	padding: 0;
+    height: 24px;
+}
+
+.cp-type {
+	text-align: center;
+}

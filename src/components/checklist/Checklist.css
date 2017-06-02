@@ -1,0 +1,21 @@
+.vertical-text {
+	transform: rotate(-90deg);
+}
+
+.checklist table {
+	margin-bottom: 0;
+}
+
+.checklist table tr td{
+	padding: 0;
+	vertical-align: middle;
+}
+
+.checklist select.checkpoint-select {
+	padding: 0;
+    height: 24px;
+}
+
+.cp-type {
+	text-align: center;
+}

@@ -1,0 +1,24 @@
+a.name-tag {
+	float: left;
+	text-decoration: none;
+}
+
+.iw-date {
+	text-align: center;
+}
+
+.iw-datepick {
+	   display: inline-block;
+}
+
+.interviewer.form-group {
+    border: 1px solid lightgray;
+    background: white;
+    padding: 6px;
+    margin-right: 6px;
+}
+
+.interviewer.form-group p {
+    margin-left: 5px;
+    margin-right: 10px;
+}
